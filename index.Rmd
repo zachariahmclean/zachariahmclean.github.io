@@ -1,0 +1,52 @@
+---
+title: "Zachariah (Zach) L. McLean"
+image: "ZMheadshot.png"
+links:
+  - label: ResearchGate
+    url: "https://www.researchgate.net/profile/Zachariah-Mclean"
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=yUH9xiUAAAAJ&hl=en"
+  - label: LinkedIn
+    url: "https://linkedin.com/in/zach-mclean-07407073"
+  - label: ORCID
+    url: "https://orcid.org/0000-0002-0968-0538"
+  - label: Scopus Author ID
+    url: "https://www.scopus.com/inward/authorDetails.url?authorID=56771537300&partnerID=MN8TOARS"
+  - label: Email
+    url: "mailto:ZMCLEAN@mgh.harvard.edu"
+output:
+  postcards::trestles
+---
+
+### About me
+
+I'm a Postdoctoral Research Fellow in the lab of [James Gusella](https://cgm.massgeneral.org/faculty/james-gusella/) at the Center for Genomic Medicine, Massachusetts General Hospital & Harvard Medical School
+
+My expertise is in using genetic technologies to understand development and diseases. I'm currently working on identifying genetic factors that affect CAG repeat instability in Huntington's disease. This involves developing reporters for CAG length and genetic perturbations of in vitro models, including human pluripotent stem cells.
+
+
+### Experience
+
+##### Center for Genomic Medicine, Massachusetts General Hospital
+##### Department of Neurology, Harvard Medical School
+##### Medical and Population Genetics Program, the Broad Institute of M.I.T. and Harvard
+
+Postdoctoral Research Fellow Sep 2020--current
+Boston, USA
+
+### Education
+
+##### University of Auckland / AgResearch
+
+PHD in Biological Sciences, 2015--2020 
+Auckland / Hamilton, New Zealand
+
+##### University of Waikato
+
+Bachelor of Science with Honours, in Biological Sciences, 2014-- 2015, First class honours
+Hamilton, New Zealand
+
+##### University of Waikato
+
+Bachelor of Science (Technology), in Chemistry and Biological Sciences 2010--2013
+Hamilton, New Zealand
