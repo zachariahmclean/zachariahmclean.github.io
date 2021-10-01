@@ -1,5 +1,5 @@
 ---
-title: "Zachariah (Zach) L. McLean"
+title: "Zachariah L. McLean"
 image: "ZMheadshot.png"
 links:
   - label: ResearchGate
